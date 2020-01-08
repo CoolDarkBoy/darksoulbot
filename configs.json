@@ -1,0 +1,10 @@
+{
+	"configs":{
+		"welcome-msg":"Welcome to darkSoul , {}",
+		"leave-msg":"{} has left the community"
+	},
+	"bot":{
+		"token":"NjY0MTAwNTE1MjIyOTEzMDM1.XhSKiw.YRgGqR0K9-XiFfB8qNorHZjwMpo",
+		"status-text":"Welcome to DarkSoul"
+	}
+}
